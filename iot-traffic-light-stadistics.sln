@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iot-traffic-light-stadistics", "iot-traffic-light-stadistics\iot-traffic-light-stadistics.csproj", "{9786BE74-CDA9-4C92-80C2-6FAF23874EB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9786BE74-CDA9-4C92-80C2-6FAF23874EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9786BE74-CDA9-4C92-80C2-6FAF23874EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9786BE74-CDA9-4C92-80C2-6FAF23874EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9786BE74-CDA9-4C92-80C2-6FAF23874EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A72F809-5484-448E-8A0E-0A9D0273AB75}
+	EndGlobalSection
+EndGlobal
